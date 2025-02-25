@@ -1,8 +1,8 @@
 # D2Diff
 
 This repo contains the supported pytorch code and configurations for Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis Article.
-**D2-Diff Architecture**  <br />
 
+**D2-Diff Architecture**  <br />
 ![alt text](figures/framework.png)
 
 **System Requirement**  <br />
