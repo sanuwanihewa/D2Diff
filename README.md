@@ -1,12 +1,14 @@
 # D2Diff
 
-This repo contains the supported pytorch code and configurations for Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis Article.
+This repo contains the supported pytorch code and configurations for the Dual-Domain Diffusion Model for Accurate Multi-Contrast MRI Synthesis Article.
 
 **D2-Diff Architecture**  <br />
 ![alt text](figures/framework.png)
 
 **System Requirement**  <br />
 All the experiments of D2Diff are conducted on Ubuntu 20.04 Focal version with Python 3.8.
+
+To train D2Diff with the given settings, the system requires a GPU with at least 40GB. All the experiments are conducted on two Nvidia A40 GPUs.
 
 ***Installation Guide***  <br />
 Prepare an environment with python>=3.8 and install dependencies.
